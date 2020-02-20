@@ -1,0 +1,108 @@
+header{
+    height:148px;
+    background-color: #7ADFBB;
+    display: flex;
+
+
+
+}
+#line{
+    position: absolute;
+    color: #FFDFDC;
+    font-size: 40px;
+    font-family: sans-serif;
+    padding-left: 300px;
+}
+main{
+    min-height:700p;
+    padding:100px;
+    display: flex;
+
+}
+ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+    margin: 20px; 
+    font-size:40px;
+    
+}
+a{
+    color:#AC6773;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+footer{
+    height:97px;
+    background-color:rgb(31, 41, 41);
+}
+.im{
+    width:150px;
+    height:80px;
+}
+#mainManu{
+    flex-grow: 1;
+    display:flex;
+    justify-content: flex-end;
+
+}
+#logo{
+    float:left;
+    height: 148px;
+    width: 228px;
+}
+#mainMenu{
+    width: 100%;
+    text-align: center;
+    padding-top:40px;
+}
+#mainMenu a{
+   
+    text-decoration:none;
+
+}
+#mainMenu li{
+    margin-right:40px;
+}
+input{
+    border: 1px solid #AC6773;
+    box-sizing: border-box;
+    background: #FFDEE4;
+    height: 30px;
+    margin-left: 20px;
+
+}
+h1{
+    color:#AC6773;
+    font-family: sans-serif;
+    
+}
+#mainForm{
+    
+    min-height:600px;
+    margin: 20px;
+    float:left;
+    padding:200px;
+    
+}
+p{
+    font-size: 30px;
+    color:#AC6773;
+    font-family: sans-serif; 
+}
+aside{
+    flex-grow: 1;
+    display:flex;
+    justify-content: flex-end;
+    
+}
+#col{
+
+    height: 20px;
+    width: 150px;
+    background:#AC6773;
+    margin-top: 120px;
+    margin-left: 200px;
+
+}

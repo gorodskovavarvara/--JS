@@ -90,6 +90,8 @@ p{
     font-size: 30px;
     color:#AC6773;
     font-family: sans-serif; 
+    margin-top: 50px;
+    
 }
 aside{
     flex-grow: 1;

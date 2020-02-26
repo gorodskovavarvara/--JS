@@ -102,12 +102,12 @@ p{
 }
 
 #l, #r{
-width: 80px;
-height:80px;
-margin:20px;
+width: 20%;
+height: 15%;
+margin: 5%;
 }
 #l{
-    padding-left:80px ;
+    padding-left:19% ;
 }
 #col{
 
